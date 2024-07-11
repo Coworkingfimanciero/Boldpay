@@ -1,2 +1,2 @@
 # Boldpay
-Pago ennlia bold 
+Pago en linea bold 
